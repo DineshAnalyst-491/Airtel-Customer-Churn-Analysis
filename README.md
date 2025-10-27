@@ -10,6 +10,17 @@ The Airtel Churn Analysis project focuses on identifying key factors that lead t
 The analysis is visualized through an interactive Tableau dashboard built from a structured dataset.
 
 ---
+## 🖼️ Dashboard Preview
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 131401" src="https://github.com/user-attachments/assets/92033572-b6a1-44d2-ab23-64a5687ff1bb" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 131414" src="https://github.com/user-attachments/assets/b5fc0162-4378-429f-a869-54f7f1d4fa0c" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 131427" src="https://github.com/user-attachments/assets/c711f7e7-4e39-4f75-bcf6-1850016b8066" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 131442" src="https://github.com/user-attachments/assets/d2479fa5-96c2-4df7-bc58-3678cd146201" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 131459" src="https://github.com/user-attachments/assets/813be2e2-b910-4be5-9505-456c63743781" />
+
 
 ## 🎯 Objectives
 - Analyze customer churn patterns based on demographics, usage, and service feedback.  
